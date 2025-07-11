@@ -218,6 +218,7 @@ Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
 * https://netdevconf.org/1.2/papers/bbr-netdev-1.2.new.new.pdf
 * https://blog.cloudflare.com/how-to-receive-a-million-packets/
 * https://blog.cloudflare.com/how-to-achieve-low-latency/
+* https://people.redhat.com/pladd/MHVLUG_2017-04_Network_Receive_Stack.pdf
 * https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
 * https://www.youtube.com/watch?v=6Fl1rsxk4JQ
 * https://oxnz.github.io/2016/05/03/performance-tuning-networking/
